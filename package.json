@@ -1,0 +1,17 @@
+{
+    "name": "mvrps-protocol",
+    "version": "1.0.0",
+    "description": "A secure custom protocol implementation for Muvor Protocol Secure (MVRPS) using TLS.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "mvrp-protocol": "^1.0.0",
+      "tls": "^0.0.1",
+      "fs": "^0.0.1-security"
+    }
+  }
+  
